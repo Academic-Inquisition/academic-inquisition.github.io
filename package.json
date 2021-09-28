@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "aos": "^2.3.4",
+    "bootstrap": "^5.1.1",
+    "jquery": "^3.6.0",
+    "typescript": "^4.4.3"
+  }
+}
