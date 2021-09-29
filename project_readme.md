@@ -1,0 +1,1 @@
+To setup the project, run the bat file in the setup directory

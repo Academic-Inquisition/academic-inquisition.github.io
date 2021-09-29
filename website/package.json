@@ -8,7 +8,7 @@
   "name": "academic-inquisition.github.io",
   "description": "academic-inquisition.github.io",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.html",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
