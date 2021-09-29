@@ -4,5 +4,23 @@
     "bootstrap": "^5.1.1",
     "jquery": "^3.6.0",
     "typescript": "^4.4.3"
-  }
+  },
+  "name": "academic-inquisition.github.io",
+  "description": "academic-inquisition.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Academic-Inquisition/academic-inquisition.github.io.git"
+  },
+  "author": "Academic Inquisition",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Academic-Inquisition/academic-inquisition.github.io/issues"
+  },
+  "homepage": "https://github.com/Academic-Inquisition/academic-inquisition.github.io#readme"
 }
